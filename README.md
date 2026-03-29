@@ -72,7 +72,7 @@ Full-stack web app for exploring and booking tours
 ## 💻 In Action  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHB6eTBhZGQxcGhhbnh2d3EzaG9oejhxM3UzeDRzeDZibnN6ZTJ2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nmo1aW1mYzIycHlram1ieThoMmxybTFrdzdkbWp6Mzl4cWhiZTc2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
 </p>
 
 ---
