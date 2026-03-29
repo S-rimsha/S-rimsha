@@ -1,11 +1,11 @@
-
+<!-- Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Rimsha+Shaikh;Computer+Engineer+%7C+Full+Stack+Developer;Building+User-Centric+Web+Applications&center=true&width=500&height=50">
 </p>
 
 ---
 
-## 👩‍💻 About Me  
+##  👩‍💻 About Me  
 
 🎓 Computer Engineer based in Mumbai 🇮🇳  
 💻 Full-Stack Developer (Java • JavaScript • SQL)  
@@ -16,7 +16,7 @@ and continuously learning modern technologies to improve my craft.
 
 ---
 
-## 🚀 Currently Working On  
+## Currently Working On  
 
 🩺 **AI Doctor** – Smart healthcare web application  
 🔧 **Appliance Care** – Service booking & management platform  
@@ -44,23 +44,35 @@ and continuously learning modern technologies to improve my craft.
 
 ---
 
-## 📊 GitHub Activity  
+## 🎯 What I Focus On  
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rimshashaikh06&theme=tokyonight" />
-</p>
+✔️ Writing clean and maintainable code  
+✔️ Building user-friendly interfaces  
+✔️ Solving real-world problems through tech  
+✔️ Continuous learning & improvement  
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rimshashaikh06&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rimshashaikh06&theme=tokyonight" />
-</p>
+---
+
+## Featured Work  
+
+💡 **AI Doctor**  
+A smart healthcare web application for symptom analysis and user support  
+→ Focused on usability, accessibility, and real-world impact  
+
+🔧 **Appliance Care**  
+Service booking platform for appliance repair & maintenance  
+→ Smooth booking flow + responsive UI  
+
+🌍 **Travel Booking System**  
+Full-stack web app for exploring and booking tours  
+→ Structured data handling & seamless experience
 
 ---
 
 ## 💻 In Action  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHB6eTBhZGQxcGhhbnh2d3EzaG9oejhxM3UzeDRzeDZibnN6ZTJ2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="500" />
 </p>
 
 ---
@@ -96,15 +108,15 @@ and the willingness to improve every day.
   <strong>Keep learning. Keep building.</strong>
 </p>
 
----
+--- 
 
-## 🏁 Conclusion  
+## 🌟 Conclusion  
 
-I’m not just learning to code  
-I’m learning to build impactful applications,  
-solve real-world problems, and grow as a developer.
+Every line of code I write is a step forward  
+not just in skill, but in confidence.  
 
-Focused. Learning. Improving every day.
+Still learning, still growing,  
+and enjoying the process along the way ✨
 
 <p align="center">
   <strong>Build. Learn. Grow.</strong>
