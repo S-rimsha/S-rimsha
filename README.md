@@ -18,7 +18,7 @@ and continuously learning modern technologies to improve my craft.
 
 ## Currently Working On  
 
-🩺 **AI Doctor** – Smart healthcare web application  
+🩺 **AI Doctor** – Smart healthcare web application
 🔧 **Appliance Care** – Service booking & management platform  
 🌍 **Travel Booking System** – Tour management & booking app  
 🤖 Exploring AI, cloud & scalable system design  
