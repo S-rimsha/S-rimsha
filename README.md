@@ -7,7 +7,7 @@
 
 ##  👩‍💻 About Me  
 
-🎓 Computer Engineer based in Mumbai 🇮🇳  
+🎓 Computer Engineer based in Mumbai  
 💻 Full-Stack Developer (Java • JavaScript • SQL)  
 🚀 Passionate about building scalable & user-friendly applications  
 
