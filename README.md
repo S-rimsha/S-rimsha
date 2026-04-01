@@ -5,7 +5,7 @@
 
 ---
 
-##  👩‍💻 About Me  
+##  👩‍💻 About Me 
 
 🎓 Computer Engineer based in Mumbai  
 💻 Full-Stack Developer (Java • JavaScript • SQL)  
